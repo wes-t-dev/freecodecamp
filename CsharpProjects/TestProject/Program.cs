@@ -116,14 +116,99 @@
 // Console.WriteLine($"Product: {size} {color} {type}");
 
 //for loop
-for(int count = 1; count < 101; count++)
-{
-    if(count%3 == 0 && count%5 ==0)
-        Console.WriteLine($"{count} - FizzBuzz");
-    else if(count%3 == 0)
-        Console.WriteLine($"{count} - Fizz");
-    else if(count%5 == 0)
-        Console.WriteLine($"{count} - Buzz");
-    else
-        Console.WriteLine($"{count}");
-}
+//for(int count = 1; count < 101; count++)
+// {
+//     if(count%3 == 0 && count%5 ==0)
+//         Console.WriteLine($"{count} - FizzBuzz");
+//     else if(count%3 == 0)
+//         Console.WriteLine($"{count} - Fizz");
+//     else if(count%5 == 0)
+//         Console.WriteLine($"{count} - Buzz");
+//     else
+//         Console.WriteLine($"{count}");
+// }
+
+//WHILE
+
+// int heroHealth = 10;
+// int monsterHealth = 10;
+
+// do {
+//     Random attack = new Random();
+//     int damage = 0;
+//     damage = attack.Next(1,11);
+//     monsterHealth -= damage;
+//     Console.WriteLine($"Monster was damaged and lost {damage} health and now has {monsterHealth} health.");
+//     if(monsterHealth <= 0)
+//         Console.WriteLine("Hero wins!");
+//     else {
+//         damage = attack.Next(1,11);
+//         heroHealth -= damage;
+//         Console.WriteLine($"Hero was damaged and lost {damage} health and now has {heroHealth} health.");
+//         if(heroHealth <= 0)
+//             Console.WriteLine("Monster wins!");
+//     }
+// } while (heroHealth > 0 && monsterHealth > 0);
+
+// using System.ComponentModel.DataAnnotations;
+
+// string? enteredValue;
+// int numericValue;
+// bool validValue = false;
+// Console.WriteLine("Please enter a value between 5 and 10.");
+
+// do {
+//     enteredValue = Console.ReadLine();
+//     if(!int.TryParse(enteredValue, out numericValue))
+//     {
+//         Console.WriteLine("Sorry, you entered an invalid number, please try again");
+//         continue;
+//     }
+//     validValue = (numericValue > 4 && numericValue < 11);
+//     if (!validValue)
+//     {
+//         Console.WriteLine($"You entered {numericValue}. Please enter a number between 5 and 10.");
+//         continue;
+//     }
+// } while (!validValue);
+// Console.WriteLine($"Your input value ({numericValue}) has been accepted.");
+
+// string? inputValue;
+// string[] roles = ["Administrator","Manager","User"];
+// bool validRole = false;
+// Console.WriteLine("Enter your role name (Administrator, Manager, or User)");
+// do {
+//     inputValue = Console.ReadLine();
+//     if(string.IsNullOrEmpty(inputValue))
+//     {
+//         Console.WriteLine("You did not enter a value. Enter your role name (Administrator, Manager, or User)");
+//         continue;
+//     };
+//     foreach(string role in roles)
+//     {
+//         validRole = role.Trim().ToLower() == inputValue.Trim().ToLower();
+//         if(validRole) break;
+//     };
+//     if(!validRole)
+//         Console.WriteLine($"The role name that you entered, \"{inputValue}\" is not valid. Enter your role name (Administrator, Manager, or User)");
+// } while (!validRole);
+
+// Console.WriteLine($"Your input value ({inputValue}) has been accepted.");
+
+// string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+// int periodLocation = 0;
+
+// foreach(string myString in myStrings)
+// {
+//     string newString = myString;
+//     periodLocation = newString.IndexOf(".");
+    
+//     while(periodLocation > 0)
+//     { 
+//         Console.WriteLine(newString.Remove(periodLocation));
+//         newString = newString.Substring(periodLocation+1).TrimStart();
+//         //Console.WriteLine(newString);
+//         periodLocation = newString.IndexOf(".");
+//     };
+//     Console.WriteLine(newString);
+// };
