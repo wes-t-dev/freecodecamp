@@ -1,0 +1,15 @@
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.exe
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.deps.json
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.dll
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net7.0\Starter.pdb
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.sourcelink.json
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.dll
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\refint\Starter.dll
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.pdb
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+H:\Projects\GitHub\freecodecamp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net7.0\ref\Starter.dll

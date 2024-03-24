@@ -212,3 +212,57 @@
 //     };
 //     Console.WriteLine(newString);
 // };
+
+
+//****Arrays****///
+
+// string[] pallets = { "B14", "A11", "B12", "A13" };
+
+// Console.WriteLine("Sorted...");
+// Array.Sort(pallets);
+// foreach (var pallet in pallets)
+// {
+//     Console.WriteLine($"-- {pallet}");
+// }
+
+// Console.WriteLine("");
+// Console.WriteLine("Reversed...");
+// Array.Reverse(pallets);
+// foreach (var pallet in pallets)
+// {
+//     Console.WriteLine($"-- {pallet}");
+// }
+// string[] pallets = { "B14", "A11", "B12", "A13" };
+// Console.WriteLine("");
+
+// Array.Clear(pallets, 0, 2);
+// Console.WriteLine($"Clearing 2 ... count: {pallets.Length}");
+// foreach (var pallet in pallets)
+// {
+//     Console.WriteLine($"-- {pallet}");
+// }
+
+// string pangram = "The quick brown fox jumps over the lazy dog";
+
+// string[] strings = pangram.Split(" ");
+// pangram = "";
+// for (int i = 0; i < strings.Length; i++) {
+//     char[] strarray = strings[i].ToCharArray();
+//     Array.Reverse(strarray);
+//     foreach(char c in strarray) {
+//         pangram += c;
+//     }
+//     pangram += " ";
+// }
+// Console.WriteLine(pangram);
+
+// string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+
+// string[] orderIds = orderStream.Split(",");
+// Array.Sort(orderIds);
+// foreach (string orderId in orderIds) {
+//     if(orderId.Length == 4)
+//         Console.WriteLine(orderId);
+//     else
+//         Console.WriteLine(orderId + "\t- Error");
+// }
