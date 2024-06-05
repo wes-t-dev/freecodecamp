@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aBWGfcdJU319ajDaNqvHGsdxiq9EyAwaCOLMAafrVdytJPAaMlD1a76K9SFB8DOywa4ceD1H7r2nhLnCb2Y4NA==",
+  "dgSpecHash": "Hiyt3y0tD/GlO8dltC8OCoyroWedboLFqn1q45YbVss4vZ3Idbu3R0OrQNgc17dD1fMdlONWWiDnjULzPDt7Xg==",
   "success": true,
   "projectFilePath": "H:\\Projects\\GitHub\\freecodecamp\\Challenge-Project-variable-data-in-CSharp-main\\Starter\\Starter.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Weston\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\Weston\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\Weston\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\Weston\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+    "C:\\Users\\Weston\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Weston\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Weston\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Weston\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }
